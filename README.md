@@ -70,10 +70,13 @@ The included workbook [`quant_report.xlsx`](/C:/Users/User/Documents/Playground/
 These sheets summarize both the historical backtest and the paper-trading replay, making the project easy to review from a research, PM, or interview perspective.
 ## The Equity Curve compares all strategies
 <img width="514" height="558" alt="image" src="https://github.com/user-attachments/assets/ae13585b-7925-4904-998a-594b8449ea1a" />
+
 ## Summary Performance Table
-<img width="1170" height="145" alt="image" src="https://github.com/user-attachments/assets/36b54d52-7c93-47bc-9fc1-16766f434285" />
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/36b54d52-7c93-47bc-9fc1-16766f434285" />
+
 ## Monthly Returns by Strategy (%)
-<img width="880" height="501" alt="image" src="https://github.com/user-attachments/assets/0fcbf0d4-e109-4876-97f7-4c52a87b18f9" />
+<img width="800" height="501" alt="image" src="https://github.com/user-attachments/assets/0fcbf0d4-e109-4876-97f7-4c52a87b18f9" />
+
 ## Paper Trading Execution Log 
 <img width="902" height="591" alt="image" src="https://github.com/user-attachments/assets/d1055991-c495-4279-886c-569e94d6e2dc" />
 
